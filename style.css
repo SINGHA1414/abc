@@ -1,0 +1,16 @@
+h1{
+    color: rgb(114, 43, 43);
+    text-align: center;
+}
+
+
+div{
+    display: flex;
+    border: solid 10px black;
+}
+
+
+img{
+    width: 200px;
+    border: solid 10px black;
+}
